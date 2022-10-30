@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTMangHaiChieu/BTMangHaiChieu.iml" filepath="$PROJECT_DIR$/BTMangHaiChieu/BTMangHaiChieu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapJava/BaiTapJava.iml" filepath="$PROJECT_DIR$/BaiTapJava/BaiTapJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_02/Bai_02.iml" filepath="$PROJECT_DIR$/Bai_02/Bai_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_03/Bai_03.iml" filepath="$PROJECT_DIR$/Bai_03/Bai_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_04/Bai_04.iml" filepath="$PROJECT_DIR$/Bai_04/Bai_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_05/Bai_05.iml" filepath="$PROJECT_DIR$/Bai_05/Bai_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_06/Bai_06.iml" filepath="$PROJECT_DIR$/Bai_06/Bai_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Car/Car.iml" filepath="$PROJECT_DIR$/Car/Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cat/Cat.iml" filepath="$PROJECT_DIR$/Cat/Cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameBocBi2.0/GameBocBi2.0.iml" filepath="$PROJECT_DIR$/GameBocBi2.0/GameBocBi2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HoadoncaFe/HoadoncaFe.iml" filepath="$PROJECT_DIR$/HoadoncaFe/HoadoncaFe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HocMang/HocMang.iml" filepath="$PROJECT_DIR$/HocMang/HocMang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJava/LearnJava.iml" filepath="$PROJECT_DIR$/LearnJava/LearnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oto/Oto.iml" filepath="$PROJECT_DIR$/Oto/Oto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingPuzzle/SlidingPuzzle.iml" filepath="$PROJECT_DIR$/SlidingPuzzle/SlidingPuzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestTicTocToe/TestTicTocToe.iml" filepath="$PROJECT_DIR$/TestTicTocToe/TestTicTocToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicToacToe/TicToacToe.iml" filepath="$PROJECT_DIR$/TicToacToe/TicToacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vidu2/Vidu2.iml" filepath="$PROJECT_DIR$/Vidu2/Vidu2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vidu_01/Vidu_01.iml" filepath="$PROJECT_DIR$/Vidu_01/Vidu_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vidu_03/Vidu_03.iml" filepath="$PROJECT_DIR$/Vidu_03/Vidu_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-java.iml" filepath="$PROJECT_DIR$/learn-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
